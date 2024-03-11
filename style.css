@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+section#featured-property{
+  text-align: center;
+  font-size: medium;
+}
+
+nav{
+text-align: center;
+padding: 10px;
+background-color: grey;
+  
+}
+section#details{
+  text-align: center;
+  height: 150px;
+  background-color: red;
+  margin-top: 20px;
+  
+  
+}
+
+
